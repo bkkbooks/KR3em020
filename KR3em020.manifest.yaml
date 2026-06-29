@@ -1,0 +1,487 @@
+canonical_identifier: bkk:krp/KR3em020/v1
+canonical_location: https://kanripo.org/bkk/KR3em020/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 白喉條辨
+  identifiers:
+    krp: KR3em020
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em020.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3em020_000.yaml, hash: 'sha256:8dc1da4973253bff3ef51e964163cde5bd52bd66a35240693ca245c447b93657'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em020_000.markers.yaml, hash: 'sha256:b1d59c9b95c34114be8293d85cfacb69031aa5f018fa811ae14e5d9c216fdb21'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 882
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d3.h1s1
+    span:
+    - front
+    - 882
+    - 1726
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 510
+  label: 辨病源第一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d5.h1s1
+    span:
+    - body
+    - 510
+    - 1190
+  label: 辨經絡第二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d6.h1s1
+    span:
+    - body
+    - 1190
+    - 1461
+  label: 辨色第三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d7.h1s1
+    span:
+    - body
+    - 1461
+    - 1747
+  label: 辨脈第四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d8.h1s1
+    span:
+    - body
+    - 1747
+    - 2707
+  label: 辨手太陰本病症治第五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d8d8
+    span:
+    - body
+    - 2456
+    - 2613
+  label: 加減喻氏清燥救肺湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d8d9
+    span:
+    - body
+    - 2613
+    - 2707
+  label: 鄭梅澗先生養陰清肺湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d9.h1s1
+    span:
+    - body
+    - 2707
+    - 3450
+  label: 辨手少陽標病第六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d9d4
+    span:
+    - body
+    - 3189
+    - 3318
+  label: 白虎青龍湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d9d5
+    span:
+    - body
+    - 3318
+    - 3391
+  label: 吹喉青黃散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d9d6
+    span:
+    - body
+    - 3391
+    - 3450
+  label: 加減張氏神功辟邪散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d10.h1s1
+    span:
+    - body
+    - 3450
+    - 3995
+  label: 辨手少陰標病第七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d10d6
+    span:
+    - body
+    - 3810
+    - 3930
+  label: 朱白雙清散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d10d7
+    span:
+    - body
+    - 3930
+    - 3995
+  label: 加減神功辟邪散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d11.h1s1
+    span:
+    - body
+    - 3995
+    - 4594
+  label: 辨三經標本並病第八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d12.h1s1
+    span:
+    - body
+    - 4594
+    - 5269
+  label: 辨救誤上第九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d12d6
+    span:
+    - body
+    - 5132
+    - 5269
+  label: 三炁降龍丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d13.h1s1
+    span:
+    - body
+    - 5269
+    - 5749
+  label: 辨救誤下第十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d14.h1s1
+    span:
+    - body
+    - 5749
+    - 6119
+  label: 辨善後第十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d14d8
+    span:
+    - body
+    - 6062
+    - 6119
+  label: 張氏養正湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d15.h1s1
+    span:
+    - body
+    - 6119
+    - 6707
+  label: 辨外治第十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d15d6
+    span:
+    - body
+    - 6641
+    - 6696
+  label: 張氏雄黃解毒丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d15d7
+    span:
+    - body
+    - 6696
+    - 6707
+  label: 白填鴨散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d16.h1s1
+    span:
+    - body
+    - 6707
+    - 7440
+  label: 辨禁忌第十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d16d4
+    span:
+    - body
+    - 6740
+    - 6858
+  label: 忌升提並吐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d16d5
+    span:
+    - body
+    - 6858
+    - 6902
+  label: 忌溫散發汗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d16d6
+    span:
+    - body
+    - 6902
+    - 7013
+  label: 忌大下亡津
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d16d7
+    span:
+    - body
+    - 7013
+    - 7136
+  label: 忌刀針
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d16d8
+    span:
+    - body
+    - 7136
+    - 7255
+  label: 忌病重藥輕
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d16d9
+    span:
+    - body
+    - 7255
+    - 7440
+  label: 忌苦重助燥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17.h1s1
+    span:
+    - body
+    - 7440
+    - 8072
+  label: 辨張氏無治之症第十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d4
+    span:
+    - body
+    - 7506
+    - 7552
+  label: 一白塊自落
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d5
+    span:
+    - body
+    - 7552
+    - 7582
+  label: 二七日滿白不退
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d6
+    span:
+    - body
+    - 7582
+    - 7631
+  label: 三咽乾無涎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d7
+    span:
+    - body
+    - 7631
+    - 7686
+  label: 四服藥大便不通
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d8
+    span:
+    - body
+    - 7686
+    - 7733
+  label: 五未服藥大便泄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d9
+    span:
+    - body
+    - 7733
+    - 7779
+  label: 六兩目直視
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d10
+    span:
+    - body
+    - 7779
+    - 7863
+  label: 七痰壅氣喘
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d11
+    span:
+    - body
+    - 7863
+    - 7929
+  label: 八大便溏泄不止
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d12
+    span:
+    - body
+    - 7929
+    - 7976
+  label: 九唇面俱青
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d13
+    span:
+    - body
+    - 7976
+    - 8008
+  label: 十藥不能下
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d17d14
+    span:
+    - body
+    - 8008
+    - 8072
+  label: 十一音啞無聲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d18.h1s1
+    span:
+    - body
+    - 8072
+    - 8630
+  label: 辨耐修藥表並藥忌第十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em020_jc_000-d19.h1s1
+    span:
+    - body
+    - 8630
+    - 9517
+  label: 補義
+  type: section
+  level: 1
+hash: sha256:340d1522c70d7a14c17062be4a6fd456668e918401952c78266633fb1ca2fd54
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
